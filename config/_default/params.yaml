@@ -60,12 +60,12 @@ features:
     branch: main
   comment:
     # Choose a provider: giscus, disqus, commento, or '' to disable commenting
-    provider: 'disqus'
+    provider: 'giscus'
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'Mercizzz/Mercizzz.github.io'
+      repo_id: 'R_kgDOPYaBOA'
+      category: 'Show and tell'
+      category_id: 'DIC_kwDOPYaBOM4Ctzfz'
       theme: preferred_color_scheme
       language_code: en
       mapping: pathname
