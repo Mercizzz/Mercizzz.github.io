@@ -21,7 +21,7 @@ role: Undergraduate at Shanghai Jiao Tong University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University
+  - name: SJTU, Shanghai
     url: https://www.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
