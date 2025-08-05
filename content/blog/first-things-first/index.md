@@ -10,11 +10,6 @@ image:
 
 authors:
   - admin
-
-tags:
-  - tracks of time
-  - building web page
-  - Markdown
 ---
 
 Welcome 👋
