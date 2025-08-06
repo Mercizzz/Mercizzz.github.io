@@ -2,6 +2,9 @@
 title: 使用HugoBlox搭建个人主页
 summary: 简要介绍一下建站经历，包括部署github pages和在中国大陆申请域名。
 date: 2025-08-06
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 ## 概览
@@ -14,7 +17,7 @@ date: 2025-08-06
 - 模板完成度很高，接口提供得很全
 - 免费！
 
-一些_可忍受的_缺点有：
+一些*可忍受的*缺点有：
 
 - 上传博客/改代码后上传的操作很繁，需要人工地去部署到网页
 - 在中国大陆以外的地方访问页面延迟很长（可能和域名有关），但是大陆地区加载`giscus`又比较慢……
@@ -27,7 +30,7 @@ date: 2025-08-06
 
 不得不说hugoblox的教程是真的详细啊，跟着做很快就部署好了。
 
-顺带一提，我用[**giscus**](https://giscus.app/zh-CN)实现了页面内容的评论功能，效果不错。模板code里`config\_default\params.yaml`已经提供了`giscus`的接口，太良心了。（还有包括`discus`的一些其他评论工具，不过discus好像国内加载不出来。）
+顺带一提，我用[**giscus**](https://giscus.app/zh-CN)实现了页面内容的评论功能，效果不错。模板code里`config\_default\params.yaml`已经提供了`giscus`的接口，太良心了。（还有包括`discus`的一些其他评论工具，不过`discus`好像国内加载不出来。）
 
 ## 购买，和备案一个域名
 
