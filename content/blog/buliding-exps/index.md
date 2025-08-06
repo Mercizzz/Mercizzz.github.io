@@ -4,7 +4,12 @@ summary: 简要介绍一下建站经历，包括部署github pages和在中国�
 date: 2025-08-06
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: 有个人的头像'
+
+tags: 
+  - experience
+  - tech
+  - website
 ---
 
 ## 概览

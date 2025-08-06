@@ -2,6 +2,9 @@
 title: 我的博客主页迎来重生
 summary: 🎉
 date: 2025-08-05
+
+tags: 
+  - annoucement
 ---
 
 🎉
