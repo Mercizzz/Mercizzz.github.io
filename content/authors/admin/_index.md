@@ -11,7 +11,7 @@ last_name: Yan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🙌
 
 # Is this the primary user of the site?
 superuser: true

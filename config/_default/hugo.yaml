@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Creator's Blog" # Website name
+title: "Mryy's Blog" # Website name
 baseURL: 'http://www.keeptrackofti.me/' # Website URL
 
 ############################
@@ -16,7 +16,7 @@ cascade:
       path: /blog/**
       kind: page
     pager: true
-    editable: true
+    editable: false
     hide_date: false
     show_date_updated: true
     reading_time: true
