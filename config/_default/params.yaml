@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '沪ICP备2024107468号 © {year} Mryy. This work is licensed under {license}'
+    notice: ' © {year} Mryy. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
