@@ -19,7 +19,7 @@ cascade:
     editable: false
     hide_date: false
     show_date_updated: true
-    reading_time: true
+    reading_time: false
     commentable: true
     show_related: true
     share: true
