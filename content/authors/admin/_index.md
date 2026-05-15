@@ -25,7 +25,7 @@ organizations:
     url: https://www.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include … wait what?
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: "www.keeptrackofti.me"
+website: ""
 ---
 
-Mryy is 世界上最牛逼的人。
+只是随便写写，随缘更新。
